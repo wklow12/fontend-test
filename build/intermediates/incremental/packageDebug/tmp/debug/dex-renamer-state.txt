@@ -1,0 +1,7 @@
+#Fri Feb 21 12:18:53 MYT 2020
+base.0=/Users/wklow/Documents/app/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/wklow/Documents/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex
